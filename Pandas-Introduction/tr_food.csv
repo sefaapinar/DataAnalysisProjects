@@ -1,0 +1,869 @@
+Place;ProductId;ProductName;UmId;UmName;Month;Year;Price
+National Average;52;Rice - Retail;5;KG;1;2021;119.249
+National Average;52;Rice - Retail;5;KG;2;2021;128.107
+National Average;52;Rice - Retail;5;KG;3;2021;128.107
+National Average;52;Rice - Retail;5;KG;4;2021;128.719
+National Average;52;Rice - Retail;5;KG;5;2021;129.061
+National Average;58;Wheat flour - Retail;5;KG;1;2021;45.195
+National Average;58;Wheat flour - Retail;5;KG;2;2021;51.774
+National Average;58;Wheat flour - Retail;5;KG;3;2021;51.774
+National Average;58;Wheat flour - Retail;5;KG;4;2021;51.399
+National Average;58;Wheat flour - Retail;5;KG;5;2021;52.429
+National Average;66;Beans (white) - Retail;5;KG;1;2021;158.964
+National Average;66;Beans (white) - Retail;5;KG;2;2021;163.851
+National Average;66;Beans (white) - Retail;5;KG;3;2021;163.851
+National Average;66;Beans (white) - Retail;5;KG;4;2021;155.613
+National Average;66;Beans (white) - Retail;5;KG;5;2021;15.889
+National Average;83;Potatoes - Retail;5;KG;1;2021;21.491
+National Average;83;Potatoes - Retail;5;KG;2;2021;21.408
+National Average;83;Potatoes - Retail;5;KG;3;2021;21.408
+National Average;83;Potatoes - Retail;5;KG;4;2021;18.967
+National Average;83;Potatoes - Retail;5;KG;5;2021;26.852
+National Average;92;Eggs - Retail;33;Unit;1;2021;0.8936
+National Average;92;Eggs - Retail;33;Unit;2;2021;0.82
+National Average;92;Eggs - Retail;33;Unit;3;2021;0.82
+National Average;92;Eggs - Retail;33;Unit;4;2021;0.7725
+National Average;92;Eggs - Retail;33;Unit;5;2021;0.7783
+National Average;94;Meat (chicken) - Retail;5;KG;1;2021;146.031
+National Average;94;Meat (chicken) - Retail;5;KG;2;2021;160.121
+National Average;94;Meat (chicken) - Retail;5;KG;3;2021;160.121
+National Average;94;Meat (chicken) - Retail;5;KG;4;2021;181.334
+National Average;94;Meat (chicken) - Retail;5;KG;5;2021;18.44
+National Average;97;Sugar - Retail;5;KG;1;2021;51.125
+National Average;97;Sugar - Retail;5;KG;2;2021;56.432
+National Average;97;Sugar - Retail;5;KG;3;2021;56.432
+National Average;97;Sugar - Retail;5;KG;4;2021;58.313
+National Average;97;Sugar - Retail;5;KG;5;2021;58.193
+National Average;105;Garlic - Retail;5;KG;1;2021;343.309
+National Average;105;Garlic - Retail;5;KG;2;2021;360.612
+National Average;105;Garlic - Retail;5;KG;3;2021;360.612
+National Average;105;Garlic - Retail;5;KG;4;2021;337.633
+National Average;105;Garlic - Retail;5;KG;5;2021;266.066
+National Average;108;Lentils - Retail;5;KG;1;2021;113.936
+National Average;108;Lentils - Retail;5;KG;2;2021;114.731
+National Average;108;Lentils - Retail;5;KG;3;2021;114.731
+National Average;108;Lentils - Retail;5;KG;4;2021;114.478
+National Average;108;Lentils - Retail;5;KG;5;2021;117.082
+National Average;112;Pasta - Retail;5;KG;1;2021;6.081
+National Average;112;Pasta - Retail;5;KG;2;2021;57.931
+National Average;112;Pasta - Retail;5;KG;3;2021;57.931
+National Average;112;Pasta - Retail;5;KG;4;2021;57.852
+National Average;112;Pasta - Retail;5;KG;5;2021;57.975
+National Average;114;Tomatoes - Retail;5;KG;1;2021;51.874
+National Average;114;Tomatoes - Retail;5;KG;2;2021;53.812
+National Average;114;Tomatoes - Retail;5;KG;3;2021;53.812
+National Average;114;Tomatoes - Retail;5;KG;4;2021;72.058
+National Average;114;Tomatoes - Retail;5;KG;5;2021;52.288
+National Average;119;Groundnuts (shelled) - Retail;5;KG;1;2021;37.312
+National Average;119;Groundnuts (shelled) - Retail;5;KG;2;2021;385.735
+National Average;119;Groundnuts (shelled) - Retail;5;KG;3;2021;385.735
+National Average;119;Groundnuts (shelled) - Retail;5;KG;4;2021;387.849
+National Average;119;Groundnuts (shelled) - Retail;5;KG;5;2021;385.668
+National Average;124;Bread (common) - Retail;5;KG;1;2021;7.176
+National Average;124;Bread (common) - Retail;5;KG;2;2021;72.651
+National Average;124;Bread (common) - Retail;5;KG;3;2021;72.651
+National Average;124;Bread (common) - Retail;5;KG;4;2021;73.908
+National Average;124;Bread (common) - Retail;5;KG;5;2021;74.895
+National Average;151;Coffee - Retail;5;KG;1;2021;56.897
+National Average;151;Coffee - Retail;5;KG;2;2021;598.567
+National Average;151;Coffee - Retail;5;KG;3;2021;598.567
+National Average;151;Coffee - Retail;5;KG;4;2021;572.757
+National Average;151;Coffee - Retail;5;KG;5;2021;577.243
+National Average;173;Onions - Retail;5;KG;1;2021;19.033
+National Average;173;Onions - Retail;5;KG;2;2021;21.066
+National Average;173;Onions - Retail;5;KG;3;2021;21.066
+National Average;173;Onions - Retail;5;KG;4;2021;18.332
+National Average;173;Onions - Retail;5;KG;5;2021;18.788
+National Average;181;Cabbage - Retail;5;KG;1;2021;23.066
+National Average;181;Cabbage - Retail;5;KG;2;2021;23.711
+National Average;181;Cabbage - Retail;5;KG;3;2021;23.711
+National Average;183;Meat (mutton) - Retail;5;KG;1;2021;654.577
+National Average;183;Meat (mutton) - Retail;5;KG;2;2021;656.722
+National Average;183;Meat (mutton) - Retail;5;KG;3;2021;656.722
+National Average;183;Meat (mutton) - Retail;5;KG;4;2021;684.824
+National Average;183;Meat (mutton) - Retail;5;KG;5;2021;702.167
+National Average;184;Oil (sunflower) - Retail;15;L;1;2021;157.688
+National Average;184;Oil (sunflower) - Retail;15;L;2;2021;169.673
+National Average;184;Oil (sunflower) - Retail;15;L;3;2021;169.673
+National Average;184;Oil (sunflower) - Retail;15;L;4;2021;17.934
+National Average;184;Oil (sunflower) - Retail;15;L;5;2021;180.374
+National Average;185;Salt - Retail;5;KG;1;2021;27.899
+National Average;185;Salt - Retail;5;KG;2;2021;29.907
+National Average;185;Salt - Retail;5;KG;3;2021;29.907
+National Average;185;Salt - Retail;5;KG;4;2021;29.573
+National Average;185;Salt - Retail;5;KG;5;2021;30.895
+National Average;209;Coffee (instant) - Retail;33;Unit;1;2021;493.837
+National Average;209;Coffee (instant) - Retail;33;Unit;2;2021;464.624
+National Average;209;Coffee (instant) - Retail;33;Unit;3;2021;464.624
+National Average;209;Coffee (instant) - Retail;33;Unit;4;2021;464.685
+National Average;209;Coffee (instant) - Retail;33;Unit;5;2021;47.032
+National Average;231;Cauliflower - Retail;5;KG;1;2021;29.012
+National Average;231;Cauliflower - Retail;5;KG;2;2021;31.849
+National Average;231;Cauliflower - Retail;5;KG;3;2021;31.849
+National Average;239;Oil (olive) - Retail;15;L;1;2021;358.973
+National Average;239;Oil (olive) - Retail;15;L;2;2021;382.612
+National Average;239;Oil (olive) - Retail;15;L;3;2021;382.612
+National Average;239;Oil (olive) - Retail;15;L;4;2021;398.793
+National Average;239;Oil (olive) - Retail;15;L;5;2021;397.327
+National Average;244;Chickpeas - Retail;5;KG;1;2021;100.218
+National Average;244;Chickpeas - Retail;5;KG;2;2021;99.957
+National Average;244;Chickpeas - Retail;5;KG;3;2021;99.957
+National Average;244;Chickpeas - Retail;5;KG;4;2021;99.012
+National Average;244;Chickpeas - Retail;5;KG;5;2021;99.515
+National Average;254;Bananas - Retail;5;KG;1;2021;124.991
+National Average;254;Bananas - Retail;5;KG;2;2021;127.282
+National Average;254;Bananas - Retail;5;KG;3;2021;127.282
+National Average;254;Bananas - Retail;5;KG;4;2021;143.758
+National Average;254;Bananas - Retail;5;KG;5;2021;153.063
+National Average;258;Bulgur - Retail;5;KG;1;2021;59.702
+National Average;258;Bulgur - Retail;5;KG;2;2021;58.897
+National Average;258;Bulgur - Retail;5;KG;3;2021;58.897
+National Average;258;Bulgur - Retail;5;KG;4;2021;58.578
+National Average;258;Bulgur - Retail;5;KG;5;2021;58.707
+National Average;281;Tea - Retail;5;KG;1;2021;32.964
+National Average;281;Tea - Retail;5;KG;2;2021;343.147
+National Average;281;Tea - Retail;5;KG;3;2021;343.147
+National Average;281;Tea - Retail;5;KG;4;2021;350.706
+National Average;281;Tea - Retail;5;KG;5;2021;357.507
+National Average;285;Fuel (petrol-gasoline) - Retail;15;L;1;2021;73.154
+National Average;285;Fuel (petrol-gasoline) - Retail;15;L;2;2021;73.313
+National Average;285;Fuel (petrol-gasoline) - Retail;15;L;3;2021;72.634
+National Average;285;Fuel (petrol-gasoline) - Retail;15;L;4;2021;7.161
+National Average;285;Fuel (petrol-gasoline) - Retail;15;L;5;2021;74.124
+National Average;317;Tomatoes (paste) - Retail;5;KG;1;2021;98.028
+National Average;317;Tomatoes (paste) - Retail;5;KG;2;2021;106.051
+National Average;317;Tomatoes (paste) - Retail;5;KG;3;2021;106.051
+National Average;317;Tomatoes (paste) - Retail;5;KG;4;2021;10.112
+National Average;317;Tomatoes (paste) - Retail;5;KG;5;2021;104.355
+National Average;341;Fuel (gas) - Retail;90;12 KG;1;2021;72.555
+National Average;341;Fuel (gas) - Retail;90;12 KG;2;2021;73.313
+National Average;341;Fuel (gas) - Retail;90;12 KG;3;2021;73.313
+National Average;345;Apples - Retail;5;KG;1;2021;50.288
+National Average;345;Apples - Retail;5;KG;2;2021;52.899
+National Average;345;Apples - Retail;5;KG;3;2021;52.899
+National Average;345;Apples - Retail;5;KG;4;2021;5.377
+National Average;345;Apples - Retail;5;KG;5;2021;57.567
+National Average;360;Oranges - Retail;5;KG;1;2021;55.965
+National Average;360;Oranges - Retail;5;KG;2;2021;57.366
+National Average;360;Oranges - Retail;5;KG;3;2021;57.366
+National Average;360;Oranges - Retail;5;KG;4;2021;63.624
+National Average;360;Oranges - Retail;5;KG;5;2021;66.013
+National Average;364;Yogurt - Retail;5;KG;1;2021;74.779
+National Average;364;Yogurt - Retail;5;KG;2;2021;76.487
+National Average;364;Yogurt - Retail;5;KG;3;2021;76.487
+National Average;364;Yogurt - Retail;5;KG;4;2021;77.774
+National Average;364;Yogurt - Retail;5;KG;5;2021;76.943
+National Average;388;Cucumbers - Retail;5;KG;1;2021;59.703
+National Average;388;Cucumbers - Retail;5;KG;2;2021;70.355
+National Average;388;Cucumbers - Retail;5;KG;3;2021;70.355
+National Average;388;Cucumbers - Retail;5;KG;4;2021;53.871
+National Average;388;Cucumbers - Retail;5;KG;5;2021;40.286
+National Average;401;Fish (fresh) - Retail;5;KG;1;2021;400.028
+National Average;401;Fish (fresh) - Retail;5;KG;2;2021;397.752
+National Average;401;Fish (fresh) - Retail;5;KG;3;2021;397.752
+National Average;401;Fish (fresh) - Retail;5;KG;4;2021;429.076
+National Average;401;Fish (fresh) - Retail;5;KG;5;2021;466.553
+National Average;404;Spinach - Retail;5;KG;1;2021;39.547
+National Average;404;Spinach - Retail;5;KG;2;2021;43.352
+National Average;404;Spinach - Retail;5;KG;3;2021;43.352
+National Average;414;Cheese - Retail;5;KG;1;2021;277.129
+National Average;414;Cheese - Retail;5;KG;2;2021;291.233
+National Average;414;Cheese - Retail;5;KG;3;2021;291.233
+National Average;414;Cheese - Retail;5;KG;4;2021;291.422
+National Average;414;Cheese - Retail;5;KG;5;2021;29.263
+National Average;433;Meat (veal) - Retail;5;KG;1;2021;50.858
+National Average;433;Meat (veal) - Retail;5;KG;2;2021;54.538
+National Average;433;Meat (veal) - Retail;5;KG;3;2021;54.538
+National Average;433;Meat (veal) - Retail;5;KG;4;2021;567.962
+National Average;433;Meat (veal) - Retail;5;KG;5;2021;594.314
+National Average;434;Eggplants - Retail;5;KG;1;2021;63.515
+National Average;434;Eggplants - Retail;5;KG;2;2021;76.523
+National Average;434;Eggplants - Retail;5;KG;3;2021;76.523
+National Average;434;Eggplants - Retail;5;KG;4;2021;5.777
+National Average;434;Eggplants - Retail;5;KG;5;2021;52.731
+National Average;442;Milk (powder, infant formula) - Retail;5;KG;1;2021;1.527.002
+National Average;442;Milk (powder, infant formula) - Retail;5;KG;2;2021;1.439.598
+National Average;442;Milk (powder, infant formula) - Retail;5;KG;3;2021;1.439.598
+National Average;442;Milk (powder, infant formula) - Retail;5;KG;4;2021;1.434.018
+National Average;442;Milk (powder, infant formula) - Retail;5;KG;5;2021;1.396.304
+National Average;450;Zucchini - Retail;5;KG;1;2021;49.702
+National Average;450;Zucchini - Retail;5;KG;2;2021;68.228
+National Average;450;Zucchini - Retail;5;KG;3;2021;68.228
+National Average;450;Zucchini - Retail;5;KG;4;2021;5.649
+National Average;450;Zucchini - Retail;5;KG;5;2021;50.788
+National Average;463;Milk (pasteurized) - Retail;15;L;1;2021;60.106
+National Average;463;Milk (pasteurized) - Retail;15;L;2;2021;62.321
+National Average;463;Milk (pasteurized) - Retail;15;L;3;2021;62.321
+National Average;463;Milk (pasteurized) - Retail;15;L;4;2021;62.312
+National Average;463;Milk (pasteurized) - Retail;15;L;5;2021;61.803
+National Average;491;Electricity - Retail;101;kWh;1;2021;0.7975
+National Average;491;Electricity - Retail;101;kWh;2;2021;0.7975
+National Average;491;Electricity - Retail;101;kWh;3;2021;0.7975
+National Average;491;Electricity - Retail;101;kWh;4;2021;0.7975
+National Average;491;Electricity - Retail;101;kWh;5;2021;0.7975
+National Average;492;Tea (herbal) - Retail;102;Package;1;2021;62.905
+National Average;492;Tea (herbal) - Retail;102;Package;2;2021;68.157
+National Average;492;Tea (herbal) - Retail;102;Package;3;2021;68.157
+National Average;492;Tea (herbal) - Retail;102;Package;4;2021;69.976
+National Average;492;Tea (herbal) - Retail;102;Package;5;2021;71.729
+National Average;493;Water - Retail;100;Cubic meter;1;2021;52.435
+National Average;493;Water - Retail;100;Cubic meter;2;2021;56.639
+National Average;493;Water - Retail;100;Cubic meter;3;2021;56.639
+National Average;493;Water - Retail;100;Cubic meter;4;2021;5.694
+National Average;493;Water - Retail;100;Cubic meter;5;2021;5.713
+National Average;502;Cocoa (powder) - Retail;5;KG;1;2021;69.585
+National Average;502;Cocoa (powder) - Retail;5;KG;2;2021;69.749
+National Average;502;Cocoa (powder) - Retail;5;KG;3;2021;69.749
+National Average;502;Cocoa (powder) - Retail;5;KG;4;2021;742.737
+National Average;502;Cocoa (powder) - Retail;5;KG;5;2021;753.427
+Ankara;52;Rice - Retail;5;KG;1;2021;119.249
+Ankara;52;Rice - Retail;5;KG;2;2021;119.101
+Ankara;52;Rice - Retail;5;KG;3;2021;118.995
+Ankara;52;Rice - Retail;5;KG;4;2021;118.283
+Ankara;52;Rice - Retail;5;KG;5;2021;118.028
+Ankara;58;Wheat flour - Retail;5;KG;1;2021;45.195
+Ankara;58;Wheat flour - Retail;5;KG;2;2021;4.477
+Ankara;58;Wheat flour - Retail;5;KG;3;2021;44.795
+Ankara;58;Wheat flour - Retail;5;KG;4;2021;44.946
+Ankara;58;Wheat flour - Retail;5;KG;5;2021;44.922
+Ankara;66;Beans (white) - Retail;5;KG;1;2021;158.964
+Ankara;66;Beans (white) - Retail;5;KG;2;2021;155.255
+Ankara;66;Beans (white) - Retail;5;KG;3;2021;149.568
+Ankara;66;Beans (white) - Retail;5;KG;4;2021;135.837
+Ankara;66;Beans (white) - Retail;5;KG;5;2021;144.069
+Ankara;83;Potatoes - Retail;5;KG;1;2021;21.491
+Ankara;83;Potatoes - Retail;5;KG;2;2021;19.575
+Ankara;83;Potatoes - Retail;5;KG;3;2021;17.447
+Ankara;83;Potatoes - Retail;5;KG;4;2021;18.384
+Ankara;83;Potatoes - Retail;5;KG;5;2021;26.038
+Ankara;92;Eggs - Retail;33;Unit;1;2021;0.8936
+Ankara;92;Eggs - Retail;33;Unit;2;2021;0.8128
+Ankara;92;Eggs - Retail;33;Unit;3;2021;0.7944
+Ankara;92;Eggs - Retail;33;Unit;4;2021;0.76
+Ankara;92;Eggs - Retail;33;Unit;5;2021;0.7773
+Ankara;94;Meat (chicken) - Retail;5;KG;1;2021;146.031
+Ankara;94;Meat (chicken) - Retail;5;KG;2;2021;155.786
+Ankara;94;Meat (chicken) - Retail;5;KG;3;2021;169.859
+Ankara;94;Meat (chicken) - Retail;5;KG;4;2021;174.564
+Ankara;94;Meat (chicken) - Retail;5;KG;5;2021;178.382
+Ankara;97;Sugar - Retail;5;KG;1;2021;51.125
+Ankara;97;Sugar - Retail;5;KG;2;2021;5.295
+Ankara;97;Sugar - Retail;5;KG;3;2021;55.079
+Ankara;97;Sugar - Retail;5;KG;4;2021;54.873
+Ankara;97;Sugar - Retail;5;KG;5;2021;54.599
+Ankara;105;Garlic - Retail;5;KG;1;2021;343.309
+Ankara;105;Garlic - Retail;5;KG;2;2021;339.336
+Ankara;105;Garlic - Retail;5;KG;3;2021;317.426
+Ankara;105;Garlic - Retail;5;KG;4;2021;305.033
+Ankara;105;Garlic - Retail;5;KG;5;2021;22.822
+Ankara;108;Lentils - Retail;5;KG;1;2021;113.936
+Ankara;108;Lentils - Retail;5;KG;2;2021;109.553
+Ankara;108;Lentils - Retail;5;KG;3;2021;109.177
+Ankara;108;Lentils - Retail;5;KG;4;2021;108.211
+Ankara;108;Lentils - Retail;5;KG;5;2021;112.176
+Ankara;112;Pasta - Retail;5;KG;1;2021;6.081
+Ankara;112;Pasta - Retail;5;KG;2;2021;61.068
+Ankara;112;Pasta - Retail;5;KG;3;2021;60.773
+Ankara;112;Pasta - Retail;5;KG;4;2021;60.889
+Ankara;112;Pasta - Retail;5;KG;5;2021;60.876
+Ankara;114;Tomatoes - Retail;5;KG;1;2021;51.874
+Ankara;114;Tomatoes - Retail;5;KG;2;2021;50.986
+Ankara;114;Tomatoes - Retail;5;KG;3;2021;53.893
+Ankara;114;Tomatoes - Retail;5;KG;4;2021;69.777
+Ankara;114;Tomatoes - Retail;5;KG;5;2021;49.101
+Ankara;119;Groundnuts (shelled) - Retail;5;KG;1;2021;37.312
+Ankara;119;Groundnuts (shelled) - Retail;5;KG;2;2021;389.039
+Ankara;119;Groundnuts (shelled) - Retail;5;KG;3;2021;402.157
+Ankara;119;Groundnuts (shelled) - Retail;5;KG;4;2021;394.993
+Ankara;119;Groundnuts (shelled) - Retail;5;KG;5;2021;379.044
+Ankara;124;Bread (common) - Retail;5;KG;1;2021;7.176
+Ankara;124;Bread (common) - Retail;5;KG;2;2021;7.176
+Ankara;124;Bread (common) - Retail;5;KG;3;2021;76.672
+Ankara;124;Bread (common) - Retail;5;KG;4;2021;71.148
+Ankara;124;Bread (common) - Retail;5;KG;5;2021;70.799
+Ankara;151;Coffee - Retail;5;KG;1;2021;56.897
+Ankara;151;Coffee - Retail;5;KG;2;2021;567.418
+Ankara;151;Coffee - Retail;5;KG;3;2021;567.977
+Ankara;151;Coffee - Retail;5;KG;4;2021;559.581
+Ankara;151;Coffee - Retail;5;KG;5;2021;550.688
+Ankara;173;Onions - Retail;5;KG;1;2021;19.033
+Ankara;173;Onions - Retail;5;KG;2;2021;16.903
+Ankara;173;Onions - Retail;5;KG;3;2021;15.532
+Ankara;173;Onions - Retail;5;KG;4;2021;15.641
+Ankara;173;Onions - Retail;5;KG;5;2021;16.471
+Ankara;181;Cabbage - Retail;5;KG;1;2021;23.066
+Ankara;181;Cabbage - Retail;5;KG;2;2021;22.572
+Ankara;181;Cabbage - Retail;5;KG;3;2021;20.853
+Ankara;183;Meat (mutton) - Retail;5;KG;1;2021;654.577
+Ankara;183;Meat (mutton) - Retail;5;KG;2;2021;65.792
+Ankara;183;Meat (mutton) - Retail;5;KG;3;2021;664.589
+Ankara;183;Meat (mutton) - Retail;5;KG;4;2021;689.627
+Ankara;183;Meat (mutton) - Retail;5;KG;5;2021;710.324
+Ankara;184;Oil (sunflower) - Retail;15;L;1;2021;157.688
+Ankara;184;Oil (sunflower) - Retail;15;L;2;2021;161.199
+Ankara;184;Oil (sunflower) - Retail;15;L;3;2021;166.163
+Ankara;184;Oil (sunflower) - Retail;15;L;4;2021;170.159
+Ankara;184;Oil (sunflower) - Retail;15;L;5;2021;171.429
+Ankara;185;Salt - Retail;5;KG;1;2021;27.899
+Ankara;185;Salt - Retail;5;KG;2;2021;2.845
+Ankara;185;Salt - Retail;5;KG;3;2021;30.469
+Ankara;185;Salt - Retail;5;KG;4;2021;30.187
+Ankara;185;Salt - Retail;5;KG;5;2021;31.109
+Ankara;209;Coffee (instant) - Retail;33;Unit;1;2021;493.837
+Ankara;209;Coffee (instant) - Retail;33;Unit;2;2021;507.009
+Ankara;209;Coffee (instant) - Retail;33;Unit;3;2021;506.669
+Ankara;209;Coffee (instant) - Retail;33;Unit;4;2021;496.795
+Ankara;209;Coffee (instant) - Retail;33;Unit;5;2021;507.219
+Ankara;231;Cauliflower - Retail;5;KG;1;2021;29.012
+Ankara;231;Cauliflower - Retail;5;KG;2;2021;27.284
+Ankara;231;Cauliflower - Retail;5;KG;3;2021;55.333
+Ankara;239;Oil (olive) - Retail;15;L;1;2021;358.973
+Ankara;239;Oil (olive) - Retail;15;L;2;2021;366.275
+Ankara;239;Oil (olive) - Retail;15;L;3;2021;371.578
+Ankara;239;Oil (olive) - Retail;15;L;4;2021;38.031
+Ankara;239;Oil (olive) - Retail;15;L;5;2021;381.598
+Ankara;244;Chickpeas - Retail;5;KG;1;2021;100.218
+Ankara;244;Chickpeas - Retail;5;KG;2;2021;97.132
+Ankara;244;Chickpeas - Retail;5;KG;3;2021;97.053
+Ankara;244;Chickpeas - Retail;5;KG;4;2021;95.367
+Ankara;244;Chickpeas - Retail;5;KG;5;2021;96.658
+Ankara;254;Bananas - Retail;5;KG;1;2021;124.991
+Ankara;254;Bananas - Retail;5;KG;2;2021;125.717
+Ankara;254;Bananas - Retail;5;KG;3;2021;132.192
+Ankara;254;Bananas - Retail;5;KG;4;2021;144.005
+Ankara;254;Bananas - Retail;5;KG;5;2021;150.116
+Ankara;258;Bulgur - Retail;5;KG;1;2021;59.702
+Ankara;258;Bulgur - Retail;5;KG;2;2021;59.411
+Ankara;258;Bulgur - Retail;5;KG;3;2021;59.112
+Ankara;258;Bulgur - Retail;5;KG;4;2021;59.957
+Ankara;258;Bulgur - Retail;5;KG;5;2021;5.999
+Ankara;281;Tea - Retail;5;KG;1;2021;32.964
+Ankara;281;Tea - Retail;5;KG;2;2021;334.107
+Ankara;281;Tea - Retail;5;KG;3;2021;339.735
+Ankara;281;Tea - Retail;5;KG;4;2021;340.453
+Ankara;281;Tea - Retail;5;KG;5;2021;34.849
+Ankara;285;Fuel (petrol-gasoline) - Retail;15;L;1;2021;72.555
+Ankara;285;Fuel (petrol-gasoline) - Retail;15;L;2;2021;72.834
+Ankara;285;Fuel (petrol-gasoline) - Retail;15;L;3;2021;72.215
+Ankara;285;Fuel (petrol-gasoline) - Retail;15;L;4;2021;71.333
+Ankara;285;Fuel (petrol-gasoline) - Retail;15;L;5;2021;7.384
+Ankara;317;Tomatoes (paste) - Retail;5;KG;1;2021;98.028
+Ankara;317;Tomatoes (paste) - Retail;5;KG;2;2021;9.949
+Ankara;317;Tomatoes (paste) - Retail;5;KG;3;2021;96.125
+Ankara;317;Tomatoes (paste) - Retail;5;KG;4;2021;95.998
+Ankara;317;Tomatoes (paste) - Retail;5;KG;5;2021;98.552
+Ankara;341;Fuel (gas) - Retail;90;12 KG;1;2021;72.555
+Ankara;341;Fuel (gas) - Retail;90;12 KG;2;2021;72.834
+Ankara;341;Fuel (gas) - Retail;90;12 KG;3;2021;72.215
+Ankara;345;Apples - Retail;5;KG;1;2021;50.288
+Ankara;345;Apples - Retail;5;KG;2;2021;51.112
+Ankara;345;Apples - Retail;5;KG;3;2021;50.538
+Ankara;345;Apples - Retail;5;KG;4;2021;50.344
+Ankara;345;Apples - Retail;5;KG;5;2021;54.017
+Ankara;360;Oranges - Retail;5;KG;1;2021;55.965
+Ankara;360;Oranges - Retail;5;KG;2;2021;5.724
+Ankara;360;Oranges - Retail;5;KG;3;2021;57.833
+Ankara;360;Oranges - Retail;5;KG;4;2021;63.371
+Ankara;360;Oranges - Retail;5;KG;5;2021;65.787
+Ankara;364;Yogurt - Retail;5;KG;1;2021;74.779
+Ankara;364;Yogurt - Retail;5;KG;2;2021;76.981
+Ankara;364;Yogurt - Retail;5;KG;3;2021;78.523
+Ankara;364;Yogurt - Retail;5;KG;4;2021;78.691
+Ankara;364;Yogurt - Retail;5;KG;5;2021;Tem.79
+Ankara;388;Cucumbers - Retail;5;KG;1;2021;59.703
+Ankara;388;Cucumbers - Retail;5;KG;2;2021;71.837
+Ankara;388;Cucumbers - Retail;5;KG;3;2021;5.553
+Ankara;388;Cucumbers - Retail;5;KG;4;2021;51.688
+Ankara;388;Cucumbers - Retail;5;KG;5;2021;35.745
+Ankara;401;Fish (fresh) - Retail;5;KG;1;2021;400.028
+Ankara;401;Fish (fresh) - Retail;5;KG;2;2021;415.886
+Ankara;401;Fish (fresh) - Retail;5;KG;3;2021;418.929
+Ankara;401;Fish (fresh) - Retail;5;KG;4;2021;442.961
+Ankara;401;Fish (fresh) - Retail;5;KG;5;2021;505.755
+Ankara;404;Spinach - Retail;5;KG;1;2021;39.547
+Ankara;404;Spinach - Retail;5;KG;2;2021;33.731
+Ankara;404;Spinach - Retail;5;KG;3;2021;32.874
+Ankara;414;Cheese - Retail;5;KG;1;2021;277.129
+Ankara;414;Cheese - Retail;5;KG;2;2021;285.901
+Ankara;414;Cheese - Retail;5;KG;3;2021;279.313
+Ankara;414;Cheese - Retail;5;KG;4;2021;282.457
+Ankara;414;Cheese - Retail;5;KG;5;2021;290.296
+Ankara;433;Meat (veal) - Retail;5;KG;1;2021;50.858
+Ankara;433;Meat (veal) - Retail;5;KG;2;2021;538.245
+Ankara;433;Meat (veal) - Retail;5;KG;3;2021;55.097
+Ankara;433;Meat (veal) - Retail;5;KG;4;2021;55.833
+Ankara;433;Meat (veal) - Retail;5;KG;5;2021;58.711
+Ankara;434;Eggplants - Retail;5;KG;1;2021;63.515
+Ankara;434;Eggplants - Retail;5;KG;2;2021;71.533
+Ankara;434;Eggplants - Retail;5;KG;3;2021;74.302
+Ankara;434;Eggplants - Retail;5;KG;4;2021;51.391
+Ankara;434;Eggplants - Retail;5;KG;5;2021;49.141
+Ankara;442;Milk (powder, infant formula) - Retail;5;KG;1;2021;1.527.002
+Ankara;442;Milk (powder, infant formula) - Retail;5;KG;2;2021;1.517.855
+Ankara;442;Milk (powder, infant formula) - Retail;5;KG;3;2021;1.507.114
+Ankara;442;Milk (powder, infant formula) - Retail;5;KG;4;2021;1.541.594
+Ankara;442;Milk (powder, infant formula) - Retail;5;KG;5;2021;1.504.715
+Ankara;450;Zucchini - Retail;5;KG;1;2021;49.702
+Ankara;450;Zucchini - Retail;5;KG;2;2021;6.126
+Ankara;450;Zucchini - Retail;5;KG;3;2021;5.041
+Ankara;450;Zucchini - Retail;5;KG;4;2021;54.975
+Ankara;450;Zucchini - Retail;5;KG;5;2021;50.624
+Ankara;463;Milk (pasteurized) - Retail;15;L;1;2021;60.106
+Ankara;463;Milk (pasteurized) - Retail;15;L;2;2021;63.649
+Ankara;463;Milk (pasteurized) - Retail;15;L;3;2021;64.342
+Ankara;463;Milk (pasteurized) - Retail;15;L;4;2021;64.388
+Ankara;463;Milk (pasteurized) - Retail;15;L;5;2021;63.565
+Ankara;491;Electricity - Retail;101;kWh;1;2021;0.7975
+Ankara;491;Electricity - Retail;101;kWh;2;2021;0.7975
+Ankara;491;Electricity - Retail;101;kWh;3;2021;0.7975
+Ankara;491;Electricity - Retail;101;kWh;4;2021;0.7975
+Ankara;491;Electricity - Retail;101;kWh;5;2021;0.7975
+Ankara;492;Tea (herbal) - Retail;102;Package;1;2021;62.905
+Ankara;492;Tea (herbal) - Retail;102;Package;2;2021;60.312
+Ankara;492;Tea (herbal) - Retail;102;Package;3;2021;63.769
+Ankara;492;Tea (herbal) - Retail;102;Package;4;2021;63.633
+Ankara;492;Tea (herbal) - Retail;102;Package;5;2021;65.511
+Ankara;493;Water - Retail;100;Cubic meter;1;2021;52.435
+Ankara;493;Water - Retail;100;Cubic meter;2;2021;52.435
+Ankara;493;Water - Retail;100;Cubic meter;3;2021;52.435
+Ankara;493;Water - Retail;100;Cubic meter;4;2021;52.435
+Ankara;493;Water - Retail;100;Cubic meter;5;2021;52.435
+Ankara;502;Cocoa (powder) - Retail;5;KG;1;2021;69.585
+Ankara;502;Cocoa (powder) - Retail;5;KG;2;2021;701.594
+Ankara;502;Cocoa (powder) - Retail;5;KG;3;2021;743.685
+Ankara;502;Cocoa (powder) - Retail;5;KG;4;2021;769.304
+Ankara;502;Cocoa (powder) - Retail;5;KG;5;2021;771.253
+Istanbul;52;Rice - Retail;5;KG;1;2021;137.225
+Istanbul;52;Rice - Retail;5;KG;2;2021;136.795
+Istanbul;52;Rice - Retail;5;KG;3;2021;136.267
+Istanbul;52;Rice - Retail;5;KG;4;2021;13.774
+Istanbul;52;Rice - Retail;5;KG;5;2021;139.236
+Istanbul;58;Wheat flour - Retail;5;KG;1;2021;5.694
+Istanbul;58;Wheat flour - Retail;5;KG;2;2021;56.926
+Istanbul;58;Wheat flour - Retail;5;KG;3;2021;56.421
+Istanbul;58;Wheat flour - Retail;5;KG;4;2021;56.324
+Istanbul;58;Wheat flour - Retail;5;KG;5;2021;57.309
+Istanbul;66;Beans (white) - Retail;5;KG;1;2021;177.187
+Istanbul;66;Beans (white) - Retail;5;KG;2;2021;176.295
+Istanbul;66;Beans (white) - Retail;5;KG;3;2021;169.565
+Istanbul;66;Beans (white) - Retail;5;KG;4;2021;171.334
+Istanbul;66;Beans (white) - Retail;5;KG;5;2021;17.Mar
+Istanbul;83;Potatoes - Retail;5;KG;1;2021;24.088
+Istanbul;83;Potatoes - Retail;5;KG;2;2021;22.753
+Istanbul;83;Potatoes - Retail;5;KG;3;2021;20.371
+Istanbul;83;Potatoes - Retail;5;KG;4;2021;20.275
+Istanbul;83;Potatoes - Retail;5;KG;5;2021;?ub.98
+Istanbul;92;Eggs - Retail;33;Unit;1;2021;0.9683
+Istanbul;92;Eggs - Retail;33;Unit;2;2021;0.8953
+Istanbul;92;Eggs - Retail;33;Unit;3;2021;0.8846
+Istanbul;92;Eggs - Retail;33;Unit;4;2021;0.846
+Istanbul;92;Eggs - Retail;33;Unit;5;2021;0.85
+Istanbul;94;Meat (chicken) - Retail;5;KG;1;2021;154.499
+Istanbul;94;Meat (chicken) - Retail;5;KG;2;2021;165.631
+Istanbul;94;Meat (chicken) - Retail;5;KG;3;2021;18.234
+Istanbul;94;Meat (chicken) - Retail;5;KG;4;2021;18.743
+Istanbul;94;Meat (chicken) - Retail;5;KG;5;2021;191.892
+Istanbul;97;Sugar - Retail;5;KG;1;2021;5.491
+Istanbul;97;Sugar - Retail;5;KG;2;2021;56.848
+Istanbul;97;Sugar - Retail;5;KG;3;2021;59.729
+Istanbul;97;Sugar - Retail;5;KG;4;2021;59.715
+Istanbul;97;Sugar - Retail;5;KG;5;2021;59.787
+Istanbul;105;Garlic - Retail;5;KG;1;2021;410.184
+Istanbul;105;Garlic - Retail;5;KG;2;2021;409.298
+Istanbul;105;Garlic - Retail;5;KG;3;2021;404.008
+Istanbul;105;Garlic - Retail;5;KG;4;2021;393.117
+Istanbul;105;Garlic - Retail;5;KG;5;2021;266.868
+Istanbul;108;Lentils - Retail;5;KG;1;2021;131.905
+Istanbul;108;Lentils - Retail;5;KG;2;2021;129.575
+Istanbul;108;Lentils - Retail;5;KG;3;2021;126.227
+Istanbul;108;Lentils - Retail;5;KG;4;2021;129.722
+Istanbul;108;Lentils - Retail;5;KG;5;2021;13.054
+Istanbul;112;Pasta - Retail;5;KG;1;2021;6.001
+Istanbul;112;Pasta - Retail;5;KG;2;2021;5.957
+Istanbul;112;Pasta - Retail;5;KG;3;2021;59.252
+Istanbul;112;Pasta - Retail;5;KG;4;2021;59.628
+Istanbul;112;Pasta - Retail;5;KG;5;2021;60.081
+Istanbul;114;Tomatoes - Retail;5;KG;1;2021;59.109
+Istanbul;114;Tomatoes - Retail;5;KG;2;2021;59.428
+Istanbul;114;Tomatoes - Retail;5;KG;3;2021;64.314
+Istanbul;114;Tomatoes - Retail;5;KG;4;2021;79.253
+Istanbul;114;Tomatoes - Retail;5;KG;5;2021;57.553
+Istanbul;119;Groundnuts (shelled) - Retail;5;KG;1;2021;397.522
+Istanbul;119;Groundnuts (shelled) - Retail;5;KG;2;2021;424.075
+Istanbul;119;Groundnuts (shelled) - Retail;5;KG;3;2021;434.443
+Istanbul;119;Groundnuts (shelled) - Retail;5;KG;4;2021;427.932
+Istanbul;119;Groundnuts (shelled) - Retail;5;KG;5;2021;425.667
+Istanbul;124;Bread (common) - Retail;5;KG;1;2021;76.899
+Istanbul;124;Bread (common) - Retail;5;KG;2;2021;77.325
+Istanbul;124;Bread (common) - Retail;5;KG;3;2021;77.247
+Istanbul;124;Bread (common) - Retail;5;KG;4;2021;77.958
+Istanbul;124;Bread (common) - Retail;5;KG;5;2021;80.405
+Istanbul;151;Coffee - Retail;5;KG;1;2021;622.117
+Istanbul;151;Coffee - Retail;5;KG;2;2021;621.715
+Istanbul;151;Coffee - Retail;5;KG;3;2021;602.443
+Istanbul;151;Coffee - Retail;5;KG;4;2021;586.418
+Istanbul;151;Coffee - Retail;5;KG;5;2021;593.364
+Istanbul;173;Onions - Retail;5;KG;1;2021;24.085
+Istanbul;173;Onions - Retail;5;KG;2;2021;22.672
+Istanbul;173;Onions - Retail;5;KG;3;2021;20.288
+Istanbul;173;Onions - Retail;5;KG;4;2021;19.954
+Istanbul;173;Onions - Retail;5;KG;5;2021;20.628
+Istanbul;181;Cabbage - Retail;5;KG;1;2021;26.287
+Istanbul;181;Cabbage - Retail;5;KG;2;2021;25.941
+Istanbul;181;Cabbage - Retail;5;KG;3;2021;23.998
+Istanbul;183;Meat (mutton) - Retail;5;KG;1;2021;73.782
+Istanbul;183;Meat (mutton) - Retail;5;KG;2;2021;751.375
+Istanbul;183;Meat (mutton) - Retail;5;KG;3;2021;760.325
+Istanbul;183;Meat (mutton) - Retail;5;KG;4;2021;780.284
+Istanbul;183;Meat (mutton) - Retail;5;KG;5;2021;794.925
+Istanbul;184;Oil (sunflower) - Retail;15;L;1;2021;175.067
+Istanbul;184;Oil (sunflower) - Retail;15;L;2;2021;179.107
+Istanbul;184;Oil (sunflower) - Retail;15;L;3;2021;184.116
+Istanbul;184;Oil (sunflower) - Retail;15;L;4;2021;190.242
+Istanbul;184;Oil (sunflower) - Retail;15;L;5;2021;192.471
+Istanbul;185;Salt - Retail;5;KG;1;2021;34.381
+Istanbul;185;Salt - Retail;5;KG;2;2021;34.667
+Istanbul;185;Salt - Retail;5;KG;3;2021;34.784
+Istanbul;185;Salt - Retail;5;KG;4;2021;33.974
+Istanbul;185;Salt - Retail;5;KG;5;2021;35.352
+Istanbul;209;Coffee (instant) - Retail;33;Unit;1;2021;497.445
+Istanbul;209;Coffee (instant) - Retail;33;Unit;2;2021;494.923
+Istanbul;209;Coffee (instant) - Retail;33;Unit;3;2021;494.296
+Istanbul;209;Coffee (instant) - Retail;33;Unit;4;2021;499.576
+Istanbul;209;Coffee (instant) - Retail;33;Unit;5;2021;50.401
+Istanbul;231;Cauliflower - Retail;5;KG;1;2021;42.128
+Istanbul;231;Cauliflower - Retail;5;KG;2;2021;38.671
+Istanbul;231;Cauliflower - Retail;5;KG;3;2021;57.853
+Istanbul;239;Oil (olive) - Retail;15;L;1;2021;382.075
+Istanbul;239;Oil (olive) - Retail;15;L;2;2021;390.784
+Istanbul;239;Oil (olive) - Retail;15;L;3;2021;392.815
+Istanbul;239;Oil (olive) - Retail;15;L;4;2021;40.708
+Istanbul;239;Oil (olive) - Retail;15;L;5;2021;406.341
+Istanbul;244;Chickpeas - Retail;5;KG;1;2021;10.693
+Istanbul;244;Chickpeas - Retail;5;KG;2;2021;107.881
+Istanbul;244;Chickpeas - Retail;5;KG;3;2021;107.143
+Istanbul;244;Chickpeas - Retail;5;KG;4;2021;10.694
+Istanbul;244;Chickpeas - Retail;5;KG;5;2021;10.615
+Istanbul;254;Bananas - Retail;5;KG;1;2021;133.424
+Istanbul;254;Bananas - Retail;5;KG;2;2021;130.981
+Istanbul;254;Bananas - Retail;5;KG;3;2021;138.655
+Istanbul;254;Bananas - Retail;5;KG;4;2021;150.383
+Istanbul;254;Bananas - Retail;5;KG;5;2021;161.925
+Istanbul;258;Bulgur - Retail;5;KG;1;2021;61.954
+Istanbul;258;Bulgur - Retail;5;KG;2;2021;6.166
+Istanbul;258;Bulgur - Retail;5;KG;3;2021;6.197
+Istanbul;258;Bulgur - Retail;5;KG;4;2021;61.742
+Istanbul;258;Bulgur - Retail;5;KG;5;2021;62.347
+Istanbul;281;Tea - Retail;5;KG;1;2021;360.187
+Istanbul;281;Tea - Retail;5;KG;2;2021;360.607
+Istanbul;281;Tea - Retail;5;KG;3;2021;361.677
+Istanbul;281;Tea - Retail;5;KG;4;2021;370.125
+Istanbul;281;Tea - Retail;5;KG;5;2021;379.527
+Istanbul;285;Fuel (petrol-gasoline) - Retail;15;L;1;2021;7.212
+Istanbul;285;Fuel (petrol-gasoline) - Retail;15;L;2;2021;72.269
+Istanbul;285;Fuel (petrol-gasoline) - Retail;15;L;3;2021;71.713
+Istanbul;285;Fuel (petrol-gasoline) - Retail;15;L;4;2021;70.749
+Istanbul;285;Fuel (petrol-gasoline) - Retail;15;L;5;2021;73.252
+Istanbul;317;Tomatoes (paste) - Retail;5;KG;1;2021;108.561
+Istanbul;317;Tomatoes (paste) - Retail;5;KG;2;2021;108.319
+Istanbul;317;Tomatoes (paste) - Retail;5;KG;3;2021;104.363
+Istanbul;317;Tomatoes (paste) - Retail;5;KG;4;2021;101.587
+Istanbul;317;Tomatoes (paste) - Retail;5;KG;5;2021;105.316
+Istanbul;341;Fuel (gas) - Retail;90;12 KG;1;2021;7.212
+Istanbul;341;Fuel (gas) - Retail;90;12 KG;2;2021;72.269
+Istanbul;341;Fuel (gas) - Retail;90;12 KG;3;2021;71.713
+Istanbul;345;Apples - Retail;5;KG;1;2021;57.942
+Istanbul;345;Apples - Retail;5;KG;2;2021;58.734
+Istanbul;345;Apples - Retail;5;KG;3;2021;58.097
+Istanbul;345;Apples - Retail;5;KG;4;2021;60.169
+Istanbul;345;Apples - Retail;5;KG;5;2021;62.886
+Istanbul;360;Oranges - Retail;5;KG;1;2021;65.283
+Istanbul;360;Oranges - Retail;5;KG;2;2021;64.902
+Istanbul;360;Oranges - Retail;5;KG;3;2021;65.502
+Istanbul;360;Oranges - Retail;5;KG;4;2021;70.641
+Istanbul;360;Oranges - Retail;5;KG;5;2021;73.769
+Istanbul;364;Yogurt - Retail;5;KG;1;2021;75.283
+Istanbul;364;Yogurt - Retail;5;KG;2;2021;78.346
+Istanbul;364;Yogurt - Retail;5;KG;3;2021;8.004
+Istanbul;364;Yogurt - Retail;5;KG;4;2021;79.666
+Istanbul;364;Yogurt - Retail;5;KG;5;2021;78.784
+Istanbul;388;Cucumbers - Retail;5;KG;1;2021;68.868
+Istanbul;388;Cucumbers - Retail;5;KG;2;2021;8.Oca
+Istanbul;388;Cucumbers - Retail;5;KG;3;2021;64.052
+Istanbul;388;Cucumbers - Retail;5;KG;4;2021;58.804
+Istanbul;388;Cucumbers - Retail;5;KG;5;2021;44.254
+Istanbul;401;Fish (fresh) - Retail;5;KG;1;2021;470.785
+Istanbul;401;Fish (fresh) - Retail;5;KG;2;2021;477.947
+Istanbul;401;Fish (fresh) - Retail;5;KG;3;2021;491.501
+Istanbul;401;Fish (fresh) - Retail;5;KG;4;2021;512.513
+Istanbul;401;Fish (fresh) - Retail;5;KG;5;2021;537.969
+Istanbul;404;Spinach - Retail;5;KG;1;2021;5.167
+Istanbul;404;Spinach - Retail;5;KG;2;2021;50.033
+Istanbul;404;Spinach - Retail;5;KG;3;2021;46.186
+Istanbul;414;Cheese - Retail;5;KG;1;2021;286.416
+Istanbul;414;Cheese - Retail;5;KG;2;2021;295.123
+Istanbul;414;Cheese - Retail;5;KG;3;2021;288.541
+Istanbul;414;Cheese - Retail;5;KG;4;2021;293.951
+Istanbul;414;Cheese - Retail;5;KG;5;2021;294.311
+Istanbul;433;Meat (veal) - Retail;5;KG;1;2021;548.189
+Istanbul;433;Meat (veal) - Retail;5;KG;2;2021;56.848
+Istanbul;433;Meat (veal) - Retail;5;KG;3;2021;568.666
+Istanbul;433;Meat (veal) - Retail;5;KG;4;2021;589.533
+Istanbul;433;Meat (veal) - Retail;5;KG;5;2021;623.164
+Istanbul;434;Eggplants - Retail;5;KG;1;2021;74.267
+Istanbul;434;Eggplants - Retail;5;KG;2;2021;82.918
+Istanbul;434;Eggplants - Retail;5;KG;3;2021;81.568
+Istanbul;434;Eggplants - Retail;5;KG;4;2021;62.534
+Istanbul;434;Eggplants - Retail;5;KG;5;2021;60.222
+Istanbul;442;Milk (powder, infant formula) - Retail;5;KG;1;2021;1.475.412
+Istanbul;442;Milk (powder, infant formula) - Retail;5;KG;2;2021;1.500.344
+Istanbul;442;Milk (powder, infant formula) - Retail;5;KG;3;2021;1.495.247
+Istanbul;442;Milk (powder, infant formula) - Retail;5;KG;4;2021;1.515.795
+Istanbul;442;Milk (powder, infant formula) - Retail;5;KG;5;2021;1.471.006
+Istanbul;450;Zucchini - Retail;5;KG;1;2021;66.403
+Istanbul;450;Zucchini - Retail;5;KG;2;2021;81.686
+Istanbul;450;Zucchini - Retail;5;KG;3;2021;66.249
+Istanbul;450;Zucchini - Retail;5;KG;4;2021;65.272
+Istanbul;450;Zucchini - Retail;5;KG;5;2021;6.009
+Istanbul;463;Milk (pasteurized) - Retail;15;L;1;2021;64.347
+Istanbul;463;Milk (pasteurized) - Retail;15;L;2;2021;67.146
+Istanbul;463;Milk (pasteurized) - Retail;15;L;3;2021;67.349
+Istanbul;463;Milk (pasteurized) - Retail;15;L;4;2021;67.124
+Istanbul;463;Milk (pasteurized) - Retail;15;L;5;2021;66.232
+Istanbul;491;Electricity - Retail;101;kWh;1;2021;0.7975
+Istanbul;491;Electricity - Retail;101;kWh;2;2021;0.7975
+Istanbul;491;Electricity - Retail;101;kWh;3;2021;0.7975
+Istanbul;491;Electricity - Retail;101;kWh;4;2021;0.7975
+Istanbul;491;Electricity - Retail;101;kWh;5;2021;0.7975
+Istanbul;492;Tea (herbal) - Retail;102;Package;1;2021;74.342
+Istanbul;492;Tea (herbal) - Retail;102;Package;2;2021;72.273
+Istanbul;492;Tea (herbal) - Retail;102;Package;3;2021;7.595
+Istanbul;492;Tea (herbal) - Retail;102;Package;4;2021;74.668
+Istanbul;492;Tea (herbal) - Retail;102;Package;5;2021;75.601
+Istanbul;493;Water - Retail;100;Cubic meter;1;2021;64.561
+Istanbul;493;Water - Retail;100;Cubic meter;2;2021;64.561
+Istanbul;493;Water - Retail;100;Cubic meter;3;2021;64.561
+Istanbul;493;Water - Retail;100;Cubic meter;4;2021;64.561
+Istanbul;493;Water - Retail;100;Cubic meter;5;2021;64.561
+Istanbul;502;Cocoa (powder) - Retail;5;KG;1;2021;727.322
+Istanbul;502;Cocoa (powder) - Retail;5;KG;2;2021;732.027
+Istanbul;502;Cocoa (powder) - Retail;5;KG;3;2021;762.171
+Istanbul;502;Cocoa (powder) - Retail;5;KG;4;2021;780.981
+Istanbul;502;Cocoa (powder) - Retail;5;KG;5;2021;805.237
+Izmir;52;Rice - Retail;5;KG;1;2021;130.403
+Izmir;52;Rice - Retail;5;KG;2;2021;132.235
+Izmir;52;Rice - Retail;5;KG;3;2021;13.47
+Izmir;52;Rice - Retail;5;KG;4;2021;133.449
+Izmir;52;Rice - Retail;5;KG;5;2021;134.948
+Izmir;58;Wheat flour - Retail;5;KG;1;2021;59.289
+Izmir;58;Wheat flour - Retail;5;KG;2;2021;57.281
+Izmir;58;Wheat flour - Retail;5;KG;3;2021;59.426
+Izmir;58;Wheat flour - Retail;5;KG;4;2021;57.195
+Izmir;58;Wheat flour - Retail;5;KG;5;2021;58.684
+Izmir;66;Beans (white) - Retail;5;KG;1;2021;175.774
+Izmir;66;Beans (white) - Retail;5;KG;2;2021;170.113
+Izmir;66;Beans (white) - Retail;5;KG;3;2021;167.052
+Izmir;66;Beans (white) - Retail;5;KG;4;2021;164.492
+Izmir;66;Beans (white) - Retail;5;KG;5;2021;164.498
+Izmir;83;Potatoes - Retail;5;KG;1;2021;24.241
+Izmir;83;Potatoes - Retail;5;KG;2;2021;22.694
+Izmir;83;Potatoes - Retail;5;KG;3;2021;20.488
+Izmir;83;Potatoes - Retail;5;KG;4;2021;20.298
+Izmir;83;Potatoes - Retail;5;KG;5;2021;28.715
+Izmir;92;Eggs - Retail;33;Unit;1;2021;11.003
+Izmir;92;Eggs - Retail;33;Unit;2;2021;10.059
+Izmir;92;Eggs - Retail;33;Unit;3;2021;10.108
+Izmir;92;Eggs - Retail;33;Unit;4;2021;0.9837
+Izmir;92;Eggs - Retail;33;Unit;5;2021;0.9809
+Izmir;94;Meat (chicken) - Retail;5;KG;1;2021;15.476
+Izmir;94;Meat (chicken) - Retail;5;KG;2;2021;163.637
+Izmir;94;Meat (chicken) - Retail;5;KG;3;2021;179.428
+Izmir;94;Meat (chicken) - Retail;5;KG;4;2021;188.895
+Izmir;94;Meat (chicken) - Retail;5;KG;5;2021;189.557
+Izmir;97;Sugar - Retail;5;KG;1;2021;56.495
+Izmir;97;Sugar - Retail;5;KG;2;2021;59.146
+Izmir;97;Sugar - Retail;5;KG;3;2021;60.789
+Izmir;97;Sugar - Retail;5;KG;4;2021;60.756
+Izmir;97;Sugar - Retail;5;KG;5;2021;60.857
+Izmir;105;Garlic - Retail;5;KG;1;2021;37.193
+Izmir;105;Garlic - Retail;5;KG;2;2021;38.2
+Izmir;105;Garlic - Retail;5;KG;3;2021;361.918
+Izmir;105;Garlic - Retail;5;KG;4;2021;35.079
+Izmir;105;Garlic - Retail;5;KG;5;2021;311.965
+Izmir;108;Lentils - Retail;5;KG;1;2021;12.129
+Izmir;108;Lentils - Retail;5;KG;2;2021;118.153
+Izmir;108;Lentils - Retail;5;KG;3;2021;115.723
+Izmir;108;Lentils - Retail;5;KG;4;2021;116.622
+Izmir;108;Lentils - Retail;5;KG;5;2021;119.018
+Izmir;112;Pasta - Retail;5;KG;1;2021;61.351
+Izmir;112;Pasta - Retail;5;KG;2;2021;6.133
+Izmir;112;Pasta - Retail;5;KG;3;2021;61.602
+Izmir;112;Pasta - Retail;5;KG;4;2021;61.091
+Izmir;112;Pasta - Retail;5;KG;5;2021;61.048
+Izmir;114;Tomatoes - Retail;5;KG;1;2021;52.351
+Izmir;114;Tomatoes - Retail;5;KG;2;2021;52.962
+Izmir;114;Tomatoes - Retail;5;KG;3;2021;59.473
+Izmir;114;Tomatoes - Retail;5;KG;4;2021;76.456
+Izmir;114;Tomatoes - Retail;5;KG;5;2021;54.939
+Izmir;119;Groundnuts (shelled) - Retail;5;KG;1;2021;406.345
+Izmir;119;Groundnuts (shelled) - Retail;5;KG;2;2021;39.688
+Izmir;119;Groundnuts (shelled) - Retail;5;KG;3;2021;399.203
+Izmir;119;Groundnuts (shelled) - Retail;5;KG;4;2021;394.825
+Izmir;119;Groundnuts (shelled) - Retail;5;KG;5;2021;403.885
+Izmir;124;Bread (common) - Retail;5;KG;1;2021;70.798
+Izmir;124;Bread (common) - Retail;5;KG;2;2021;71.921
+Izmir;124;Bread (common) - Retail;5;KG;3;2021;72.117
+Izmir;124;Bread (common) - Retail;5;KG;4;2021;72.107
+Izmir;124;Bread (common) - Retail;5;KG;5;2021;72.097
+Izmir;151;Coffee - Retail;5;KG;1;2021;634.627
+Izmir;151;Coffee - Retail;5;KG;2;2021;63.806
+Izmir;151;Coffee - Retail;5;KG;3;2021;625.393
+Izmir;151;Coffee - Retail;5;KG;4;2021;629.754
+Izmir;151;Coffee - Retail;5;KG;5;2021;635.866
+Izmir;173;Onions - Retail;5;KG;1;2021;23.803
+Izmir;173;Onions - Retail;5;KG;2;2021;21.298
+Izmir;173;Onions - Retail;5;KG;3;2021;19.204
+Izmir;173;Onions - Retail;5;KG;4;2021;17.738
+Izmir;173;Onions - Retail;5;KG;5;2021;1.886
+Izmir;181;Cabbage - Retail;5;KG;1;2021;2.229
+Izmir;181;Cabbage - Retail;5;KG;2;2021;2.191
+Izmir;181;Cabbage - Retail;5;KG;3;2021;19.967
+Izmir;183;Meat (mutton) - Retail;5;KG;1;2021;736.783
+Izmir;183;Meat (mutton) - Retail;5;KG;2;2021;76.342
+Izmir;183;Meat (mutton) - Retail;5;KG;3;2021;763.887
+Izmir;183;Meat (mutton) - Retail;5;KG;4;2021;778.635
+Izmir;183;Meat (mutton) - Retail;5;KG;5;2021;787.239
+Izmir;184;Oil (sunflower) - Retail;15;L;1;2021;169.068
+Izmir;184;Oil (sunflower) - Retail;15;L;2;2021;171.183
+Izmir;184;Oil (sunflower) - Retail;15;L;3;2021;178.577
+Izmir;184;Oil (sunflower) - Retail;15;L;4;2021;183.789
+Izmir;184;Oil (sunflower) - Retail;15;L;5;2021;184.799
+Izmir;185;Salt - Retail;5;KG;1;2021;35.012
+Izmir;185;Salt - Retail;5;KG;2;2021;35.401
+Izmir;185;Salt - Retail;5;KG;3;2021;35.922
+Izmir;185;Salt - Retail;5;KG;4;2021;34.717
+Izmir;185;Salt - Retail;5;KG;5;2021;36.428
+Izmir;209;Coffee (instant) - Retail;33;Unit;1;2021;545.869
+Izmir;209;Coffee (instant) - Retail;33;Unit;2;2021;544.608
+Izmir;209;Coffee (instant) - Retail;33;Unit;3;2021;538.261
+Izmir;209;Coffee (instant) - Retail;33;Unit;4;2021;539.415
+Izmir;209;Coffee (instant) - Retail;33;Unit;5;2021;551.812
+Izmir;231;Cauliflower - Retail;5;KG;1;2021;33.402
+Izmir;231;Cauliflower - Retail;5;KG;2;2021;29.762
+Izmir;231;Cauliflower - Retail;5;KG;3;2021;46.658
+Izmir;239;Oil (olive) - Retail;15;L;1;2021;386.304
+Izmir;239;Oil (olive) - Retail;15;L;2;2021;394.837
+Izmir;239;Oil (olive) - Retail;15;L;3;2021;388.532
+Izmir;239;Oil (olive) - Retail;15;L;4;2021;409.863
+Izmir;239;Oil (olive) - Retail;15;L;5;2021;405.308
+Izmir;244;Chickpeas - Retail;5;KG;1;2021;112.233
+Izmir;244;Chickpeas - Retail;5;KG;2;2021;109.439
+Izmir;244;Chickpeas - Retail;5;KG;3;2021;107.379
+Izmir;244;Chickpeas - Retail;5;KG;4;2021;108.902
+Izmir;244;Chickpeas - Retail;5;KG;5;2021;109.765
+Izmir;254;Bananas - Retail;5;KG;1;2021;134.935
+Izmir;254;Bananas - Retail;5;KG;2;2021;131.516
+Izmir;254;Bananas - Retail;5;KG;3;2021;138.714
+Izmir;254;Bananas - Retail;5;KG;4;2021;14.797
+Izmir;254;Bananas - Retail;5;KG;5;2021;156.836
+Izmir;258;Bulgur - Retail;5;KG;1;2021;59.375
+Izmir;258;Bulgur - Retail;5;KG;2;2021;61.066
+Izmir;258;Bulgur - Retail;5;KG;3;2021;60.642
+Izmir;258;Bulgur - Retail;5;KG;4;2021;61.397
+Izmir;258;Bulgur - Retail;5;KG;5;2021;60.997
+Izmir;281;Tea - Retail;5;KG;1;2021;379.382
+Izmir;281;Tea - Retail;5;KG;2;2021;386.919
+Izmir;281;Tea - Retail;5;KG;3;2021;391.631
+Izmir;281;Tea - Retail;5;KG;4;2021;393.966
+Izmir;281;Tea - Retail;5;KG;5;2021;401.449
+Izmir;285;Fuel (petrol-gasoline) - Retail;15;L;1;2021;73.209
+Izmir;285;Fuel (petrol-gasoline) - Retail;15;L;2;2021;73.257
+Izmir;285;Fuel (petrol-gasoline) - Retail;15;L;3;2021;72.588
+Izmir;285;Fuel (petrol-gasoline) - Retail;15;L;4;2021;71.619
+Izmir;285;Fuel (petrol-gasoline) - Retail;15;L;5;2021;74.071
+Izmir;317;Tomatoes (paste) - Retail;5;KG;1;2021;106.534
+Izmir;317;Tomatoes (paste) - Retail;5;KG;2;2021;108.263
+Izmir;317;Tomatoes (paste) - Retail;5;KG;3;2021;Eki.31
+Izmir;317;Tomatoes (paste) - Retail;5;KG;4;2021;103.377
+Izmir;317;Tomatoes (paste) - Retail;5;KG;5;2021;105.794
+Izmir;341;Fuel (gas) - Retail;90;12 KG;1;2021;73.209
+Izmir;341;Fuel (gas) - Retail;90;12 KG;2;2021;73.257
+Izmir;341;Fuel (gas) - Retail;90;12 KG;3;2021;72.588
+Izmir;345;Apples - Retail;5;KG;1;2021;54.488
+Izmir;345;Apples - Retail;5;KG;2;2021;55.146
+Izmir;345;Apples - Retail;5;KG;3;2021;54.466
+Izmir;345;Apples - Retail;5;KG;4;2021;56.125
+Izmir;345;Apples - Retail;5;KG;5;2021;5.866
+Izmir;360;Oranges - Retail;5;KG;1;2021;63.369
+Izmir;360;Oranges - Retail;5;KG;2;2021;60.323
+Izmir;360;Oranges - Retail;5;KG;3;2021;62.003
+Izmir;360;Oranges - Retail;5;KG;4;2021;6.876
+Izmir;360;Oranges - Retail;5;KG;5;2021;67.276
+Izmir;364;Yogurt - Retail;5;KG;1;2021;8.434
+Izmir;364;Yogurt - Retail;5;KG;2;2021;87.278
+Izmir;364;Yogurt - Retail;5;KG;3;2021;88.724
+Izmir;364;Yogurt - Retail;5;KG;4;2021;86.896
+Izmir;364;Yogurt - Retail;5;KG;5;2021;87.481
+Izmir;388;Cucumbers - Retail;5;KG;1;2021;59.897
+Izmir;388;Cucumbers - Retail;5;KG;2;2021;71.948
+Izmir;388;Cucumbers - Retail;5;KG;3;2021;58.809
+Izmir;388;Cucumbers - Retail;5;KG;4;2021;54.165
+Izmir;388;Cucumbers - Retail;5;KG;5;2021;40.626
+Izmir;401;Fish (fresh) - Retail;5;KG;1;2021;331.935
+Izmir;401;Fish (fresh) - Retail;5;KG;2;2021;355.031
+Izmir;401;Fish (fresh) - Retail;5;KG;3;2021;370.747
+Izmir;401;Fish (fresh) - Retail;5;KG;4;2021;388.381
+Izmir;401;Fish (fresh) - Retail;5;KG;5;2021;460.031
+Izmir;404;Spinach - Retail;5;KG;1;2021;43.685
+Izmir;404;Spinach - Retail;5;KG;2;2021;37.925
+Izmir;404;Spinach - Retail;5;KG;3;2021;35.982
+Izmir;414;Cheese - Retail;5;KG;1;2021;324.596
+Izmir;414;Cheese - Retail;5;KG;2;2021;340.605
+Izmir;414;Cheese - Retail;5;KG;3;2021;336.006
+Izmir;414;Cheese - Retail;5;KG;4;2021;342.142
+Izmir;414;Cheese - Retail;5;KG;5;2021;350.179
+Izmir;433;Meat (veal) - Retail;5;KG;1;2021;546.964
+Izmir;433;Meat (veal) - Retail;5;KG;2;2021;568.998
+Izmir;433;Meat (veal) - Retail;5;KG;3;2021;574.752
+Izmir;433;Meat (veal) - Retail;5;KG;4;2021;586.583
+Izmir;433;Meat (veal) - Retail;5;KG;5;2021;609.007
+Izmir;434;Eggplants - Retail;5;KG;1;2021;65.113
+Izmir;434;Eggplants - Retail;5;KG;2;2021;78.807
+Izmir;434;Eggplants - Retail;5;KG;3;2021;79.048
+Izmir;434;Eggplants - Retail;5;KG;4;2021;54.192
+Izmir;434;Eggplants - Retail;5;KG;5;2021;5.267
+Izmir;442;Milk (powder, infant formula) - Retail;5;KG;1;2021;1.669.046
+Izmir;442;Milk (powder, infant formula) - Retail;5;KG;2;2021;1.666.648
+Izmir;442;Milk (powder, infant formula) - Retail;5;KG;3;2021;160.468
+Izmir;442;Milk (powder, infant formula) - Retail;5;KG;4;2021;1.611.828
+Izmir;442;Milk (powder, infant formula) - Retail;5;KG;5;2021;161.256
+Izmir;450;Zucchini - Retail;5;KG;1;2021;60.884
+Izmir;450;Zucchini - Retail;5;KG;2;2021;73.327
+Izmir;450;Zucchini - Retail;5;KG;3;2021;57.316
+Izmir;450;Zucchini - Retail;5;KG;4;2021;56.685
+Izmir;450;Zucchini - Retail;5;KG;5;2021;55.497
+Izmir;463;Milk (pasteurized) - Retail;15;L;1;2021;59.297
+Izmir;463;Milk (pasteurized) - Retail;15;L;2;2021;62.774
+Izmir;463;Milk (pasteurized) - Retail;15;L;3;2021;63.747
+Izmir;463;Milk (pasteurized) - Retail;15;L;4;2021;61.677
+Izmir;463;Milk (pasteurized) - Retail;15;L;5;2021;62.519
+Izmir;491;Electricity - Retail;101;kWh;1;2021;0.7975
+Izmir;491;Electricity - Retail;101;kWh;2;2021;0.7975
+Izmir;491;Electricity - Retail;101;kWh;3;2021;0.7975
+Izmir;491;Electricity - Retail;101;kWh;4;2021;0.7975
+Izmir;491;Electricity - Retail;101;kWh;5;2021;0.7975
+Izmir;492;Tea (herbal) - Retail;102;Package;1;2021;75.154
+Izmir;492;Tea (herbal) - Retail;102;Package;2;2021;75.296
+Izmir;492;Tea (herbal) - Retail;102;Package;3;2021;76.436
+Izmir;492;Tea (herbal) - Retail;102;Package;4;2021;74.247
+Izmir;492;Tea (herbal) - Retail;102;Package;5;2021;77.206
+Izmir;493;Water - Retail;100;Cubic meter;1;2021;74.228
+Izmir;493;Water - Retail;100;Cubic meter;2;2021;74.228
+Izmir;493;Water - Retail;100;Cubic meter;3;2021;74.228
+Izmir;493;Water - Retail;100;Cubic meter;4;2021;74.228
+Izmir;493;Water - Retail;100;Cubic meter;5;2021;74.228
+Izmir;502;Cocoa (powder) - Retail;5;KG;1;2021;682.002
+Izmir;502;Cocoa (powder) - Retail;5;KG;2;2021;68.625
+Izmir;502;Cocoa (powder) - Retail;5;KG;3;2021;71.231
+Izmir;502;Cocoa (powder) - Retail;5;KG;4;2021;732.609
+Izmir;502;Cocoa (powder) - Retail;5;KG;5;2021;756.859
